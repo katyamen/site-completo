@@ -1,0 +1,41 @@
+body{
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serifb;
+    
+
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding:16px ;
+
+    
+}
+nav a{
+    color:white;
+    position: flex;
+    margin-right:  300px; ;
+    text-decoration: none;
+}
+span{
+    color:wheat;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 3px;
+}
+img{
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-inline-end: 60px;
+    margin:20px 60px 60px 60px;
+    width: 400px;
+    height: 300px;
+    
+
+    
+}
